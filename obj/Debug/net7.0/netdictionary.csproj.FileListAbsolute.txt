@@ -1,0 +1,15 @@
+/home/apolm01-019/Videos/projectnetcore/netdictionary/bin/Debug/net7.0/netdictionary
+/home/apolm01-019/Videos/projectnetcore/netdictionary/bin/Debug/net7.0/netdictionary.deps.json
+/home/apolm01-019/Videos/projectnetcore/netdictionary/bin/Debug/net7.0/netdictionary.runtimeconfig.json
+/home/apolm01-019/Videos/projectnetcore/netdictionary/bin/Debug/net7.0/netdictionary.dll
+/home/apolm01-019/Videos/projectnetcore/netdictionary/bin/Debug/net7.0/netdictionary.pdb
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.csproj.AssemblyReference.cache
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.AssemblyInfoInputs.cache
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.AssemblyInfo.cs
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.csproj.CoreCompileInputs.cache
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.dll
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/refint/netdictionary.dll
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.pdb
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/netdictionary.genruntimeconfig.cache
+/home/apolm01-019/Videos/projectnetcore/netdictionary/obj/Debug/net7.0/ref/netdictionary.dll
